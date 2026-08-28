@@ -14,12 +14,14 @@ ISO/IEC 27001 certified · VAT **BG205417373**
 
 ## What we do
 
-We operate two connected lines of business.
+We operate three connected lines of business.
 
 **1. A compliance platform for Digital Product Passports.** Manufacturers, importers and their
 service providers use it to create, manage, validate and publish passports aligned with the
 Ecodesign for Sustainable Products Regulation (ESPR), the Construction Products Regulation (CPR),
-and the final-draft European harmonised horizontal standards, series **EN 18219–EN 18223**.
+and the European harmonised horizontal standards **EN 18216 and EN 18219–EN 18223**, published by
+CEN-CENELEC on 27 May 2026 and cited in the Official Journal on 15 July 2026 (Commission
+Implementing Decision (EU) 2026/1736).
 
 **2. Custom software engineering**, delivered since 2018 — web and mobile applications,
 cloud-native infrastructure on AWS, data engineering, workflow automation, and the integration of
@@ -54,7 +56,8 @@ carrier. Under ESPR it becomes a condition of placing a product on the EU single
 - **Web API** for integration with ERP and PIM systems.
 - **GS1 Digital Link** support, for compatibility with existing barcode infrastructure.
 
-Available under our own brand in Bulgaria, Romania, Greece, Slovakia and Poland, and white-labelled
+Available under our own brand in Bulgaria, Czechia, Slovakia, Romania, Greece, Poland and Hungary,
+and in English internationally, and white-labelled
 for partners operating their own branded compliance platform.
 
 ---
@@ -103,20 +106,15 @@ documents, not from secondary coverage.*
 - **ISO/IEC 27001 certified** information security management.
 - **Covered on Bulgarian national television** — an interview on NOVA about the Digital Product
   Passport, published on our site as structured, machine-readable media metadata.
-- We track European standardisation work on Digital Product Passports and the Commission's DPP
-  registry pilot, and contribute to **Horizon Europe** research activity.
+- **Selected as DPP technology partner in a Horizon Europe consortium bid** (C4HOST — circular
+  economy and mattress recycling), for which we designed the passport data layer. The bid was
+  not funded.
+- We track European standardisation work on Digital Product Passports (CEN-CENELEC JTC 24) and the
+  Commission's DPP Registry, operational since 20 July 2026.
 
-The platform was designed against the final-draft horizontal standards rather than retrofitted to
-them, which gives a direct path to presumption of conformity once those standards enter into force.
-
----
-
-## Repositories
-
-This organisation publishes reference material for people implementing Digital Product Passports:
-machine-readable field references derived from primary regulatory sources, example passports and
-validation tooling. Corrections are welcome via issues — regulatory detail changes, and a
-reference that is wrong is worse than none.
+The platform was designed against the horizontal standards while they were still drafts rather
+than retrofitted to them. Since their citation in the Official Journal on 15 July 2026, conformity
+with those standards carries a presumption of conformity with ESPR Articles 10 and 11.
 
 ---
 
@@ -141,6 +139,6 @@ site in its own language, not a translation layer over a single one:
 
 ---
 
-<sub>WIARA is a registered Bulgarian company. Material in these repositories is provided for
+<sub>WIARA is a registered Bulgarian company. Material published here is provided for
 reference and does not constitute legal advice. Regulatory dates described as indicative are the
 European Commission's own and are subject to change.</sub>
