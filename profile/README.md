@@ -118,6 +118,23 @@ with those standards carries a presumption of conformity with ESPR Articles 10 a
 
 ---
 
+## Live demo passports
+
+Three published demo passports, one per sector we serve. They are static pages on the
+Bulgarian site and switch language by domain or with the footer selector.
+
+| Product | Regime | Link |
+|---|---|---|
+| Clay masonry block «Trakia 25/38» (EN 771-1) | CPR (EU) 2024/3110 — DoPC, EPD/GWP, batch look-up | [digitalproductpassport.bg/demo/tuhla](https://www.digitalproductpassport.bg/demo/tuhla/) |
+| Three-seater sofa «Rodopa Comfort» | ESPR — furniture | [digitalproductpassport.bg/demo/divan](https://www.digitalproductpassport.bg/demo/divan/) |
+| Winter jacket «Alpina» | ESPR — textiles | [digitalproductpassport.bg/demo/yake](https://www.digitalproductpassport.bg/demo/yake/) |
+
+<img src="qr-demo-tuhla.png" alt="QR code opening the clay block demo passport" width="160" />
+
+*Scan to open the clay block passport on a phone.*
+
+---
+
 ## Links
 
 **Company** — [wiara.com](https://wiara.com) ·
