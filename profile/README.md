@@ -56,9 +56,9 @@ carrier. Under ESPR it becomes a condition of placing a product on the EU single
 - **Web API** for integration with ERP and PIM systems.
 - **GS1 Digital Link** support, for compatibility with existing barcode infrastructure.
 
-Available under our own brand in Bulgaria, Czechia, Slovakia, Romania, Greece, Poland and Hungary,
-and in English internationally, and white-labelled
-for partners operating their own branded compliance platform.
+Available under our own brand in Bulgaria, Czechia, Slovakia, Romania, Greece, Poland, Hungary,
+Croatia, Slovenia, Serbia, and Albania and Kosovo, and in English internationally, and
+white-labelled for partners operating their own branded compliance platform.
 
 ---
 
@@ -140,7 +140,7 @@ Bulgarian site and switch language by domain or with the footer selector.
 **Company** — [wiara.com](https://wiara.com) ·
 [LinkedIn](https://www.linkedin.com/company/wiara-daas)
 
-**The Digital Product Passport platform**, published natively in eight languages. Each is a full
+**The Digital Product Passport platform**, published natively in twelve languages. Each is a full
 site in its own language, not a translation layer over a single one:
 
 | Language | Site |
@@ -153,6 +153,10 @@ site in its own language, not a translation layer over a single one:
 | Ελληνικά | [digitalproductpassport.gr](https://digitalproductpassport.gr) |
 | Polski | [digiproductpass.pl](https://digiproductpass.pl) |
 | Magyar | [digitalproductpassport.hu](https://digitalproductpassport.hu) |
+| Hrvatski | [digitalproductpassport.hr](https://www.digitalproductpassport.hr) |
+| Slovenščina | [digitalproductpassport.si](https://www.digitalproductpassport.si) |
+| Srpski | [digitalproductpassport.rs](https://www.digitalproductpassport.rs) |
+| Shqip — Albania and Kosovo | [dpp.al](https://www.dpp.al) |
 
 ---
 
